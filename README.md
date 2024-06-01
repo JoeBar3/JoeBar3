@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe
 - 👀 I’m interested in a few different areas of computer science including web development, operating systems and cyber security.
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Rust, PHP and SQL.
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Java, Rust, PHP and SQL.
 - 💻 I'm not looking to collaborate at the moment but I have a few project ideas that I am going to work on.
 
 <!---
